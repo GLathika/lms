@@ -1,0 +1,16 @@
+# H2 File-based Database for Production
+spring.datasource.url=jdbc:h2:file:./data/lmsdb
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.username=sa
+spring.datasource.password=
+
+# JPA/Hibernate Configuration
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=false
+
+# H2 Console Disabled in Production
+spring.h2.console.enabled=false
+
+# Application Configuration
+server.port=8080
