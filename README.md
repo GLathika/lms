@@ -1,14 +1,10 @@
 # 🎓 Learning Management System (LMS) Backend
 
-[Watch Full Video 👆🏼](https://drive.google.com/file/d/1GTMQK1IE6Ck5ITKqIHvDme-4BKQMYZ-2/view?usp=drive_link)
-
-https://github.com/user-attachments/assets/baa2f9f0-0512-4c1d-b25d-61c23470e59c
 
 
 
-<!---
-![LMS_Gif](https://github.com/user-attachments/assets/6b664c1f-1af7-4f79-a65b-67a2c1578a26)
---->
+
+
 
 
 
@@ -431,8 +427,5 @@ aws.region=us-east-1
 ```
 
 
-## Author
-- Rachit Sharma
-- GitHub: @rachitsharam300
 
 
